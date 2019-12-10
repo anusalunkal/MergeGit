@@ -1,1 +1,3 @@
 Merge and rebase git commands
+hi
+hello
